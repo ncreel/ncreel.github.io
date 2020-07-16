@@ -1,0 +1,42 @@
+var aboutme = 'Nick Creel is a multimedia artist and poet creating visual poetry, \
+          interactive electronic literature, music, and digital art. They are \
+          interested in work that combines image, text, sound, and interaction \
+          to create multimedia experiences. They studied Interactive Literature \
+          and New Media at Marlboro College, earning a degree in Computer Science \
+          and Writing with Highest Honors in 2020. They plan on continuing their \
+          education as an MFA candidate in the University of Massachusetts Boston\'s \
+          creative writing program. You can find them on \
+          <a href="https://twitter.com/toofyMaw"> Twitter @toofyMaw,</a> yelling.';
+
+var poetry = '<h3>2020</h3> \
+          <h4>Self-Published</h4> \
+          <ul>\
+            <li><a href="https://ncreel.itch.io/our-electric-angel">OUR ELECTRIC ANGEL - Hatsune Miku Fanzine</a></li>\
+            <li><a href="https://ncreel.itch.io/evidence">EVIDENCE - Hypertext Microchap</a></li>\
+          </ul>\
+          <h4>Journals</h4> \
+          <ul> \
+            <li> (Forthcoming) Tangrams - Rejection Letters </li> \
+            <li> <a href="https://petrichormag.com/15-nick-creel/"> Dollhouse - petrichor #15 </a></li> \
+            <li> <a href="https://www.perhappened.com/triangulationnickcreel.html"> Triangulation - perhappened #2 </a></li> \
+            <li> <a href="https://angstfzine.com/portfolio/farewells-nick-creel/"> Farewells - ang(st) Distanced 2.0 </a> </li> \
+            <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf"> Bad Vibrations, Manufactured - Déraciné Magazine Volume VI </a></li> \
+            <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/"> Humanoid Persona - Mineral Lit Mag #1 </a></li> \
+          </ul>'
+
+var projects = '<h3>Programming Languages</h3> \
+                  <ul>\
+                    <li><a href="https://github.com/ncreel/TweeTeX"> TweeTeX - A programming language for interactive literature</a></li>\
+                  </ul>\
+                <h3>Websites</h3>\
+                  <ul>\
+                    <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
+                  </ul>\
+                <h3>Music</h3>\
+                <ul>\
+                  <li> <a href="https://toofymaw.bandcamp.com/"> Toofy Maw - in my room (2016 EP)</a></li>\
+                </ul>'
+
+document.getElementById('aboutme').innerHTML = aboutme;
+document.getElementById('poetry').innerHTML = poetry;
+document.getElementById('projects').innerHTML = projects;
