@@ -24,16 +24,17 @@ var poetry = '<h3>2020</h3> \
             <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/"> Humanoid Persona - Mineral Lit Mag #1 </a></li> \
           </ul>'
 
-var projects = '<h3>Programming Languages</h3> \
+var projects = '<h3>Computer Science</h3> \
                   <ul>\
                     <li><a href="https://github.com/ncreel/TweeTeX"> TweeTeX - A programming language for interactive literature</a></li>\
-                  </ul>\
+                    <li><a href="https://github.com/ncreel/automatic_music_events"> Audio-Score Alignment and Automated Events in Live Concerts - NSF REU Research Project </a></li>\
                 <h3>Websites</h3>\
                   <ul>\
                     <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
                   </ul>\
                 <h3>Music</h3>\
                 <ul>\
+                  <li> <a href="https://soundcloud.com/toofymaw"> Soundcloud </a></li>\
                   <li> <a href="https://toofymaw.bandcamp.com/"> Toofy Maw - in my room (2016 EP)</a></li>\
                 </ul>'
 
