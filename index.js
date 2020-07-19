@@ -28,6 +28,7 @@ var projects = '<h3>Computer Science</h3> \
                   <ul>\
                     <li><a href="https://github.com/ncreel/TweeTeX"> TweeTeX - A programming language for interactive literature</a></li>\
                     <li><a href="https://github.com/ncreel/automatic_music_events"> Audio-Score Alignment and Automated Events in Live Concerts - NSF REU Research Project </a></li>\
+                  </ul>\
                 <h3>Websites</h3>\
                   <ul>\
                     <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
