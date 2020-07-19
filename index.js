@@ -35,7 +35,7 @@ var projects = '<h3>Computer Science</h3> \
                 <h3>Music</h3>\
                 <ul>\
                   <li> <a href="https://soundcloud.com/toofymaw"> Soundcloud </a></li>\
-                  <li> <a href="https://toofymaw.bandcamp.com/"> Toofy Maw - in my room (2016 EP)</a></li>\
+                  <li> <a href="https://toofymaw.bandcamp.com/"> Toofy Maw - in my room (2016 EP) </a></li>\
                 </ul>'
 
 document.getElementById('aboutme').innerHTML = aboutme;
