@@ -33,7 +33,7 @@ var projects = '<h3>Computer Science</h3> \
                   </ul>\
                 <h3>Websites</h3>\
                   <ul>\
-                    <li><a href="toofymaw.neocities.org">toofymaw on Neocities - Personal webpage, Random web art, gif poems, etc.</a></li>\
+                    <li><a href="https://toofymaw.neocities.org">toofymaw on Neocities - Personal webpage, Random web art, gif poems, etc.</a></li>\
                     <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
                   </ul>\
                 <h3>Music</h3>\
