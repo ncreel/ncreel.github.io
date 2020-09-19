@@ -16,12 +16,14 @@ var poetry = '<h3>2020</h3> \
           </ul>\
           <h4>Journals</h4> \
           <ul> \
-            <li> (Forthcoming) Tangrams - Rejection Letters </li> \
-            <li> <a href="https://petrichormag.com/15-nick-creel/"> Dollhouse - petrichor #15 </a></li> \
-            <li> <a href="https://www.perhappened.com/triangulationnickcreel.html"> Triangulation - perhappened #2 </a></li> \
-            <li> <a href="https://angstfzine.com/portfolio/farewells-nick-creel/"> Farewells - ang(st) Distanced 2.0 </a> </li> \
-            <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf"> Bad Vibrations, Manufactured - Déraciné Magazine Volume VI </a></li> \
-            <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/"> Humanoid Persona - Mineral Lit Mag #1 </a></li> \
+            <li> My Gender is Cunt - Poke (Forthcoming)</li>\
+            <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - The Daily Drunk</a></li>\
+            <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - Rejection Letters</a> </li> \
+            <li> <a href="https://petrichormag.com/15-nick-creel/">"Dollhouse" - petrichor #15 </a></li> \
+            <li> <a href="https://www.perhappened.com/triangulationnickcreel.html">"Triangulation" - perhappened #2 </a></li> \
+            <li> <a href="https://angstfzine.com/portfolio/farewells-nick-creel/">"Farewells" - ang(st) Distanced 2.0 </a> </li> \
+            <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf">"Bad Vibrations," "Manufactured" - Déraciné Magazine Volume VI </a></li> \
+            <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/">"Humanoid Persona" - Mineral Lit Mag #1 </a></li> \
           </ul>'
 
 var projects = '<h3>Computer Science</h3> \
@@ -31,6 +33,7 @@ var projects = '<h3>Computer Science</h3> \
                   </ul>\
                 <h3>Websites</h3>\
                   <ul>\
+                    <li><a href="toofymaw.neocities.org">toofymaw on Neocities - Personal webpage, Random web art, gif poems, etc.</a></li>\
                     <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
                   </ul>\
                 <h3>Music</h3>\
