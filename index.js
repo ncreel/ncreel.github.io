@@ -16,6 +16,7 @@ var poetry = '<h3>2020</h3> \
           </ul>\
           <h4>Journals</h4> \
           <ul> \
+            <li> Wants and Fears - The Winnow Magazine, Sims Popup Issue (Forthcoming)</li>\
             <li> My Gender is Cunt - Poke (Forthcoming)</li>\
             <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - The Daily Drunk</a></li>\
             <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - Rejection Letters</a> </li> \
