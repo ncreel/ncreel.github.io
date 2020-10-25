@@ -5,7 +5,7 @@ var aboutme = 'Nick Creel is a multimedia artist and poet creating visual poetry
           and New Media at Marlboro College, earning a degree in Computer Science \
           and Writing with Highest Honors in 2020. They plan on continuing their \
           education as an MFA candidate in the University of Massachusetts Boston\'s \
-          creative writing program. 
+          creative writing program. '
 
 var poetry = '<h3>2020</h3> \
           <h4>Self-Published</h4> \
