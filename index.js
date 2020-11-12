@@ -28,6 +28,12 @@ var poetry = '<h3>2020</h3> \
             <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/">"Humanoid Persona" - Mineral Lit Mag #1 </a></li> \
           </ul>'
 
+var prose = '<h3>2020</h3> \
+             <h4>Self-Published</h4>\
+             <ul>\
+                 <li>Devotion - Tales Fiction (Forthcoming)</li>\
+             <\ul>'
+
 var projects = '<h3>Computer Science</h3> \
                   <ul>\
                     <li><a href="https://github.com/ncreel/TweeTeX"> TweeTeX - A programming language for interactive literature</a></li>\
