@@ -52,4 +52,5 @@ var projects = '<h3>Computer Science</h3> \
 
 document.getElementById('aboutme').innerHTML = aboutme;
 document.getElementById('poetry').innerHTML = poetry;
+document.getElementById('prose').innerHTML = prose;
 document.getElementById('projects').innerHTML = projects;
