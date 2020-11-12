@@ -32,7 +32,7 @@ var prose = '<h3>2020</h3> \
              <h4>Self-Published</h4>\
              <ul>\
                  <li>Devotion - Tales Fiction (Forthcoming)</li>\
-             <\ul>'
+             </ul>'
 
 var projects = '<h3>Computer Science</h3> \
                   <ul>\
