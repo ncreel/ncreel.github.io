@@ -15,8 +15,10 @@ var poetry = '<h3>2020</h3> \
           </ul>\
           <h4>Journals</h4> \
           <ul> \
-            <li> Wants and Fears - The Winnow Magazine, Sims Popup Issue (Forthcoming)</li>\
-            <li> My Gender is Cunt - Poke (Forthcoming)</li>\
+            <li> (untitled poems) 6, 8 - TWANG Anthology (Forthcoming 2020)</li>\
+            <li> Blood - Best Buds COVID-19 Relief Anthology (Forthcoming)</li>\
+            <li> Wants and Fears - The Winnow Magazine, Sims Popup Issue (Forthcoming 2021)</li>\
+            <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">My Gender is Cunt - Poke</a></li>\
             <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - The Daily Drunk</a></li>\
             <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - Rejection Letters</a> </li> \
             <li> <a href="https://petrichormag.com/15-nick-creel/">"Dollhouse" - petrichor #15 </a></li> \
