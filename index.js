@@ -15,9 +15,10 @@ var poetry = '<h3>2020</h3> \
           </ul>\
           <h4>Journals</h4> \
           <ul> \
+            <li> Repeated Repentance, Degenerate Gods, Gunshot - SPORAZINE (Forthcoming) </li> \
             <li> (untitled poems) 6, 8 - TWANG Anthology (Forthcoming 2020)</li>\
-            <li> Blood - Best Buds COVID-19 Relief Anthology (Forthcoming)</li>\
-            <li> Wants and Fears - The Winnow Magazine, Sims Popup Issue (Forthcoming 2021)</li>\
+            <li> "Blood" - Best Buds COVID-19 Relief Anthology (Forthcoming)</li>\
+            <li> "Wants and Fears" - The Winnow Magazine, Sims Popup Issue (Forthcoming 2021)</li>\
             <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">My Gender is Cunt - Poke</a></li>\
             <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - The Daily Drunk</a></li>\
             <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - Rejection Letters</a> </li> \
@@ -27,12 +28,6 @@ var poetry = '<h3>2020</h3> \
             <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf">"Bad Vibrations," "Manufactured" - Déraciné Magazine Volume VI </a></li> \
             <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/">"Humanoid Persona" - Mineral Lit Mag #1 </a></li> \
           </ul>'
-
-var prose = '<h3>2020</h3> \
-             <h4>Self-Published</h4>\
-             <ul>\
-                 <li>Devotion - Tales Fiction (Forthcoming)</li>\
-             </ul>'
 
 var projects = '<h3>Computer Science</h3> \
                   <ul>\
@@ -52,5 +47,4 @@ var projects = '<h3>Computer Science</h3> \
 
 document.getElementById('aboutme').innerHTML = aboutme;
 document.getElementById('poetry').innerHTML = poetry;
-document.getElementById('prose').innerHTML = prose;
 document.getElementById('projects').innerHTML = projects;
