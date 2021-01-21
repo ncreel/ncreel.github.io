@@ -1,17 +1,17 @@
 .content{
   width: 50%;
-  background: #502419;
-  border: 5px #7ea172;
+  background: #4f000B;
+  border: 5px #ce4257;
   border-style:dashed;
   padding: 20px 20px 20px 20px;
-  color: #e7a977;
+  color: #ce4257;
   margin: 0 auto;
 }
 
 a{
-  color: #cycb85;
+  color: #ff9b54;
 }
 
 a:hover{
-  background: #EbbE9B;
+  background: #720026;
 }
