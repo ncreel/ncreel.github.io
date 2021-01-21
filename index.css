@@ -1,6 +1,8 @@
 .content{
   width: 50%;
-  background: black;
+  background: grey;
+  border: 5px violet;
+  border-style:dashed;
   color: violet;
   margin: 0 auto;
 }
