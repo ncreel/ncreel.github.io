@@ -1,11 +1,6 @@
-var aboutme = 'Nick Creel is a multimedia artist and poet creating visual poetry, \
-          interactive electronic literature, music, and digital art. They are \
-          interested in work that combines image, text, sound, and interaction \
-          to create multimedia experiences. They studied Interactive Literature \
-          and New Media at Marlboro College, earning a degree in Computer Science \
-          and Writing with Highest Honors in 2020. They plan on continuing their \
-          education as an MFA candidate in the University of Massachusetts Boston\'s \
-          creative writing program. '
+var aboutme = 'M. Creel (they/he/she) is a genderfucked poet studying and working as an MFA candidate at the University \
+               of Massachusetts, Boston. They work as a poetry editor for Breakwater Review and as an undergraduate \ 
+               writing tutor. \ '
 
 var poetry = '<h3>2020</h3> \
           <h4>Self-Published</h4> \
