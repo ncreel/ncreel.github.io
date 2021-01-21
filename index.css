@@ -4,3 +4,9 @@
   color: violet;
   margin: 0 auto;
 }
+a{
+  color:cyan;
+}
+a:hover{
+  background: violet;
+}
