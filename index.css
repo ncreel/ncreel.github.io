@@ -1,19 +1,17 @@
-body{
-  background: black;
-}
 .content{
   width: 50%;
-  background: grey;
-  border: 5px violet;
-  border-radius: 0px 10px 10px 10px;
+  background: #502419;
+  border: 5px #7ea172;
   border-style:dashed;
-  padding: 5px 5px 5px 5px;
-  color: violet;
+  padding: 20px 20px 20px 20px;
+  color: #e7a977;
   margin: 0 auto;
 }
+
 a{
-  color:cyan;
+  color: #cycb85;
 }
+
 a:hover{
-  background: violet;
+  background: #EbbE9B;
 }
