@@ -5,10 +5,11 @@ body{
   width: 50%;
   background: grey;
   border: 5px violet;
+  border-radius: 0px 10px 10px 10px;
   border-style:dashed;
-  padding: 5px;
+  padding: 5px 5px 5px 5px;
   color: violet;
-  margin: 5 auto;
+  margin: 0 auto;
 }
 a{
   color:cyan;
