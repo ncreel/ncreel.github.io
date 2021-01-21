@@ -1,5 +1,5 @@
 var aboutme = 'M. Creel (they/he/she) is a genderfucked poet studying and working as an MFA candidate at the University \
-               of Massachusetts, Boston. They work as a poetry editor for Breakwater Review and as an undergraduate \ 
+               of Massachusetts, Boston. They work as a poetry editor for Breakwater Review and as an undergraduate \
                writing tutor. \ '
 
 var poetry = '<h3>2020</h3> \
