@@ -1,8 +1,12 @@
+body{
+  background: black;
+}
 .content{
   width: 50%;
   background: grey;
   border: 5px violet;
   border-style:dashed;
+  padding: 5px;
   color: violet;
   margin: 0 auto;
 }
