@@ -1,26 +1,33 @@
 .content{
   width: 50%;
-  background: #4f000B;
-  border: 5px #ce4257;
+  background: #140d4f;
+  border: 5px #2dd881;
   border-style:dashed;
   padding: 20px 20px 20px 20px;
-  color: #ce4257;
+  color: #2dd881;
   margin: 0 auto;
 }
 
 a{
-  color: #ff9b54;
+  color: #ff007f;
 }
 
 a:hover{
-  background: #720026;
+  background: #f9e900;
+  color: #4ea699;
+}
+
+a:visited{
+  color: #4ea699;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cedarville Cursive', cursive;
+  color: #f9e900;
+ 
 }
 
 html{
-  background: #330007;
+  background: #1c0b19;
   font-family: 'Cormorant Garamond', serif;
 }
