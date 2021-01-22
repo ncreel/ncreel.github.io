@@ -2,13 +2,7 @@ var aboutme = '<p>M. Creel (they/he/she, f.k.a. Nick Creel) is a genderfucked po
                of Massachusetts, Boston. They work as a poetry editor for <i>Breakwater Review</i> and as an undergraduate \
                writing tutor. They are fascinated by the magic of language, both human and computer, and are interested \
                in writing and reading electronic and visual poetry that is unapologetically cringe.</p>\
-               <p><em>creel</em><br/>\
-                  /krēl/<br/>\
-                   noun<br>\
-                   1.\
-                   a wicker basket for carrying fish.<br/>\
-                   2.\
-                   a rack holding bobbins or spools for spinning.</p>\'
+               <p><em>creel</em><br/> /krēl/<br/> noun<br> 1. a wicker basket for carrying fish.<br/>2. a rack holding bobbins or spools for spinning.</p>\'
 
 var poetry = '<h3>2021</h3>\
           <ul>\
