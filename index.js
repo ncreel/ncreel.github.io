@@ -1,32 +1,31 @@
-var aboutme = '<p>M. Creel (they/he/she) is a genderfucked poet studying and working as an MFA candidate at the University \
-               of Massachusetts, Boston. They work as a poetry editor for Breakwater Review and as an undergraduate \
+var aboutme = '<p>M. Creel (they/he/she, f.k.a. Nick Creel) is a genderfucked poet studying and working as an MFA candidate at the University \
+               of Massachusetts, Boston. They work as a poetry editor for <i>Breakwater Review</i> and as an undergraduate \
                writing tutor. They are fascinated by the magic of language, both human and computer, and are interested \
                in writing and reading electronic and visual poetry that is unapologetically cringe.</p>\
                <p><em>creel</em><br/>\
                   /krēl/<br/>\
                    noun<br>\
                    1.\
-                   a wicker basket for carrying fish.\
-                   an angler\'s fishing basket.<br/>\
+                   a wicker basket for carrying fish.<br/>\
                    2.\
                    a rack holding bobbins or spools for spinning.</p>\'
 
 var poetry = '<h3>2021</h3>\
           <ul>\
-            <li> "Repeated Repentance," "Degenerate Gods," "Gunshot" - SPORAZINE (Forthcoming) </li> \
-            <li> "Blood" - Best Buds COVID-19 Relief Anthology (Forthcoming)</li>\
-            <li> "Wants and Fears" - The Winnow Magazine, Sims Popup Issue</li>\
+            <li> "Repeated Repentance," "Degenerate Gods," "Gunshot" - <i>SPORAZINE</i> (Forthcoming) </li> \
+            <li> "Blood" - <i>Best Buds COVID-19 Relief Anthology</i> (Forthcoming)</li>\
+            <li> <a href="https://www.calameo.com/books/0060999347b9fc77bc676">"Wants and Fears" - <i>The Winnow Magazine</i>, Sims Popup Issue</a></li>\
           </ul>\
           <h3>2020</h3> \
-            <li> <a href="">(untitled poems) 6, 8 - TWANG Anthology</a></li>\
-            <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">"My Gender is Cunt" - Poke</a></li>\
-            <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - The Daily Drunk</a></li>\
-            <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - Rejection Letters</a> </li> \
-            <li> <a href="https://petrichormag.com/15-nick-creel/">"Dollhouse" - petrichor #15 </a></li> \
-            <li> <a href="https://www.perhappened.com/triangulationnickcreel.html">"Triangulation" - perhappened #2 </a></li> \
-            <li> <a href="https://angstfzine.com/portfolio/farewells-nick-creel/">"Farewells" - ang(st) Distanced 2.0 </a> </li> \
-            <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf">"Bad Vibrations," "Manufactured" - Déraciné Magazine Volume VI </a></li> \
-            <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/">"Humanoid Persona" - Mineral Lit Mag #1 </a></li> \
+            <li> <a href="https://twanganthology.org/read">(untitled poems) 6, 8 - <i>TWANG Anthology</i></a></li>\
+            <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">"My Gender is Cunt" - <i>Poke</i></a></li>\
+            <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - <i>The Daily Drunk</i></a></li>\
+            <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - <i>Rejection Letters</i></a> </li> \
+            <li> <a href="https://petrichormag.com/15-nick-creel/">"Dollhouse" - <i>petrichor</i>, #15 </a></li> \
+            <li> <a href="https://www.perhappened.com/triangulationnickcreel.html">"Triangulation" - <i>perhappened</i>, #2 </a></li> \
+            <li> <a href="https://angstfzine.com/portfolio/farewells-nick-creel/">"Farewells" - <i>ang(st)</i>, Distanced 2.0 </a> </li> \
+            <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf">"Bad Vibrations," "Manufactured" - <i>Déraciné Magazine</i>, Volume VI </a></li> \
+            <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/">"Humanoid Persona" - <i>Mineral Lit Mag</i>, #1 </a></li> \
           </ul>\
           <h4>Self-Published</h4> \
           <ul>\
@@ -41,7 +40,6 @@ var projects = '<h3>Computer Science</h3> \
                   </ul>\
                 <h3>Websites</h3>\
                   <ul>\
-                    <li><a href="https://toofymaw.neocities.org">toofymaw on Neocities - Personal webpage, Random web art, gif poems, etc.</a></li>\
                     <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
                   </ul>\
                 <h3>Music</h3>\
