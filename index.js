@@ -10,6 +10,7 @@ var poetry = '<h3>2021</h3>\
             <li> <a href="https://www.calameo.com/books/0060999347b9fc77bc676">"Wants and Fears" - <i>The Winnow Magazine</i>, Sims Popup Issue</a></li>\
           </ul>\
           <h3>2020</h3> \
+          <ul>\
             <li> <a href="https://twanganthology.org/read">(untitled poems) 6, 8 - <i>TWANG Anthology</i></a></li>\
             <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">"My Gender is Cunt" - <i>Poke</i></a></li>\
             <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - <i>The Daily Drunk</i></a></li>\
