@@ -31,3 +31,7 @@ html{
   background: #1c0b19;
   font-family: 'Cormorant Garamond', serif;
 }
+
+ul{
+  list-style-type: square;
+}
