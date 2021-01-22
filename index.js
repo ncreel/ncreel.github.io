@@ -24,7 +24,7 @@ var poetry = '<h3>2021</h3>\
           <ul>\
             <li><a href="https://ncreel.itch.io/our-electric-angel">OUR ELECTRIC ANGEL - Hatsune Miku Fanzine</a></li>\
             <li><a href="https://ncreel.itch.io/evidence">EVIDENCE - Hypertext Microchap</a></li>\
-          </ul>\'
+          </ul>'
 
 var projects = '<h3>Computer Science</h3> \
                   <ul>\
