@@ -1,20 +1,25 @@
-var aboutme = 'M. Creel (they/he/she) is a genderfucked poet studying and working as an MFA candidate at the University \
+var aboutme = '<p>M. Creel (they/he/she) is a genderfucked poet studying and working as an MFA candidate at the University \
                of Massachusetts, Boston. They work as a poetry editor for Breakwater Review and as an undergraduate \
-               writing tutor. \ '
+               writing tutor. They are fascinated by the magic of language, both human and computer, and are interested \
+               in writing and reading electronic and visual poetry that is unapologetically cringe.</p>\
+               <p><em>creel</em><br/>\
+                  /krēl/<br/>\
+                   noun<br>\
+                   1.\
+                   a wicker basket for carrying fish.\
+                   an angler\'s fishing basket.<br/>\
+                   2.\
+                   a rack holding bobbins or spools for spinning.</p>\'
 
-var poetry = '<h3>2020</h3> \
-          <h4>Self-Published</h4> \
+var poetry = '<h3>2021</h3>\
           <ul>\
-            <li><a href="https://ncreel.itch.io/our-electric-angel">OUR ELECTRIC ANGEL - Hatsune Miku Fanzine</a></li>\
-            <li><a href="https://ncreel.itch.io/evidence">EVIDENCE - Hypertext Microchap</a></li>\
-          </ul>\
-          <h4>Journals</h4> \
-          <ul> \
-            <li> Repeated Repentance, Degenerate Gods, Gunshot - SPORAZINE (Forthcoming) </li> \
-            <li> (untitled poems) 6, 8 - TWANG Anthology (Forthcoming 2020)</li>\
+            <li> "Repeated Repentance," "Degenerate Gods," "Gunshot" - SPORAZINE (Forthcoming) </li> \
             <li> "Blood" - Best Buds COVID-19 Relief Anthology (Forthcoming)</li>\
-            <li> "Wants and Fears" - The Winnow Magazine, Sims Popup Issue (Forthcoming 2021)</li>\
-            <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">My Gender is Cunt - Poke</a></li>\
+            <li> "Wants and Fears" - The Winnow Magazine, Sims Popup Issue</li>\
+          </ul>\
+          <h3>2020</h3> \
+            <li> <a href="">(untitled poems) 6, 8 - TWANG Anthology</a></li>\
+            <li> <a href="https://kristingarth.com/pink-plastic-house-a-tiny-journal/poke/">"My Gender is Cunt" - Poke</a></li>\
             <li> <a href="https://thedailydrunk.com/f/possession?blogcategory=Poetry">"Possession" - The Daily Drunk</a></li>\
             <li> <a href="https://rejection-letters.com/2020/07/28/creel-tangram/">"Tangrams" - Rejection Letters</a> </li> \
             <li> <a href="https://petrichormag.com/15-nick-creel/">"Dollhouse" - petrichor #15 </a></li> \
@@ -22,7 +27,12 @@ var poetry = '<h3>2020</h3> \
             <li> <a href="https://angstfzine.com/portfolio/farewells-nick-creel/">"Farewells" - ang(st) Distanced 2.0 </a> </li> \
             <li> <a href="https://deracinemagazine.files.wordpress.com/2020/05/deracine_volume-vi_summer-2020.pdf">"Bad Vibrations," "Manufactured" - Déraciné Magazine Volume VI </a></li> \
             <li> <a href="https://www.minerallitmag.com/humanoid-persona.html#/">"Humanoid Persona" - Mineral Lit Mag #1 </a></li> \
-          </ul>'
+          </ul>\
+          <h4>Self-Published</h4> \
+          <ul>\
+            <li><a href="https://ncreel.itch.io/our-electric-angel">OUR ELECTRIC ANGEL - Hatsune Miku Fanzine</a></li>\
+            <li><a href="https://ncreel.itch.io/evidence">EVIDENCE - Hypertext Microchap</a></li>\
+          </ul>\'
 
 var projects = '<h3>Computer Science</h3> \
                   <ul>\
