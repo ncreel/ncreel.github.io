@@ -1,7 +1,4 @@
-var aboutme = '<p>M. Creel (they/he/she, f.k.a. Nick Creel) is a genderfucked poet studying and working as an MFA candidate at the University \
-               of Massachusetts, Boston. They work as a poetry editor for <i>Breakwater Review</i> and as an undergraduate \
-               writing tutor. They are fascinated by the magic of language, both human and computer, and are interested \
-               in writing and reading electronic and visual poetry that is unapologetically cringe.</p>'
+var aboutme = '<p>M. Creel is a computer geek and poet interested in building websites that are also poems. </p>'
             
 var poetry = '<h3>2021</h3>\
           <ul>\
