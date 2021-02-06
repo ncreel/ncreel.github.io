@@ -24,13 +24,14 @@ var poetry = '<h3>2021</h3>\
             <li><a href="https://ncreel.itch.io/evidence">EVIDENCE - Hypertext Microchap</a></li>\
           </ul>'
 
-var projects = '<h3>Computer Science</h3> \
+var projects = '<h3>Software Development and Research</h3> \
                   <ul>\
                     <li><a href="https://github.com/ncreel/TweeTeX"> TweeTeX - A programming language for interactive literature</a></li>\
                     <li><a href="https://github.com/ncreel/automatic_music_events"> Audio-Score Alignment and Automated Events in Live Concerts - NSF REU Research Project </a></li>\
                   </ul>\
-                <h3>Websites</h3>\
+                <h3>Web Development</h3>\
                   <ul>\
+                    <li><a href="https://cursed.co.in/movie-db-react">movie-db-react - Simple movie search with React and TMDb API (WIP)</a></li>\
                     <li><a href="http://hatsunem.icu">hatsunem.icu - Hatsune Miku Fansite, plays a random song feat. Hatsune Miku</a></li>\
                   </ul>\
                 <h3>Music</h3>\
