@@ -5,6 +5,7 @@ var poetry = '<h3>2021</h3>\
             <li> "Repeated Repentance," "Degenerate Gods," "Gunshot" - <i>SPORAZINE</i> (Forthcoming) </li> \
             <li> "Blood" - <i>Best Buds COVID-19 Relief Anthology</i> (Forthcoming)</li>\
             <li> <a href="https://www.calameo.com/books/0060999347b9fc77bc676">"Wants and Fears" - <i>The Winnow Magazine</i>, Sims Popup Issue</a></li>\
+            <li> <a href="https://www.breakwaterreview.com/issue-29">Poetry Editor: Breakwater Review Issue 29</a> </li> \
           </ul>\
           <h3>2020</h3> \
           <ul>\
