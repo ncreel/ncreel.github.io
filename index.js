@@ -1,4 +1,4 @@
-var aboutme = '<p>M. Creel is a computer geek and poet interested in building websites that are also poems. </p>'
+var aboutme = '<p>N. Creel is a computer geek and poet building websites that are also poems. </p>'
             
 var poetry = '<h3>2021</h3>\
           <ul>\
